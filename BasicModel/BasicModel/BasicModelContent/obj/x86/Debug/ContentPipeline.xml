@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>box.fbx</Source>
+      <Name>box</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riz\Documents\Visual Studio 2010\Projects\BasicModel\BasicModel\BasicModel\bin\x86\Debug\Content\box.xnb</Output>
+      <Time>2011-07-18T20:17:15.4184835+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\box_0.xml</Key>
+        <Value>2011-07-18T20:23:09.7407495+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>box.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\box_0.xml</Output>
+      <Time>2011-07-18T20:17:15.4184835+02:00</Time>
+    </Item>
+    <Item>
+      <Source>jacket.tga</Source>
+      <Name>jacket</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riz\Documents\Visual Studio 2010\Projects\BasicModel\BasicModel\BasicModel\bin\x86\Debug\Content\jacket.xnb</Output>
+      <Time>2011-07-28T00:45:01.0241418+02:00</Time>
+    </Item>
+    <Item>
+      <Source>test.tga</Source>
+      <Name>test</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riz\Documents\Visual Studio 2010\Projects\BasicModel\BasicModel\BasicModel\bin\x86\Debug\Content\test.xnb</Output>
+      <Time>2011-07-29T18:10:53.404875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>AlphaSprite.png</Source>
+      <Name>AlphaSprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riz\Documents\Visual Studio 2010\Projects\BasicModel\BasicModel\BasicModel\bin\x86\Debug\Content\AlphaSprite.xnb</Output>
+      <Time>2011-07-29T18:53:20.8275792+02:00</Time>
+    </Item>
+    <Item>
+      <Source>quad.tga</Source>
+      <Name>quad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riz\Documents\Visual Studio 2010\Projects\BasicModel\BasicModel\BasicModel\bin\x86\Debug\Content\quad.xnb</Output>
+      <Time>2011-07-29T19:29:45.7105474+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Riz\Documents\Visual Studio 2010\Projects\BasicModel\BasicModel\BasicModelContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Riz\Documents\Visual Studio 2010\Projects\BasicModel\BasicModel\BasicModel\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Riz\Documents\Visual Studio 2010\Projects\BasicModel\BasicModel\BasicModelContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Riz\Documents\Visual Studio 2010\Projects\BasicModel\BasicModel\BasicModel\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-07-12T22:42:52.8314072+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

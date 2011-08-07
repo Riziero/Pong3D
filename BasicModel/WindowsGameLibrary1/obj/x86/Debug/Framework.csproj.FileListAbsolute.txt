@@ -1,0 +1,6 @@
+C:\Users\Riz\Documents\Visual Studio 2010\Projects\BasicModel\WindowsGameLibrary1\bin\x86\Debug\WindowsGameLibrary1.dll
+C:\Users\Riz\Documents\Visual Studio 2010\Projects\BasicModel\WindowsGameLibrary1\bin\x86\Debug\WindowsGameLibrary1.pdb
+C:\Users\Riz\Documents\Visual Studio 2010\Projects\BasicModel\WindowsGameLibrary1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Riz\Documents\Visual Studio 2010\Projects\BasicModel\WindowsGameLibrary1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Riz\Documents\Visual Studio 2010\Projects\BasicModel\WindowsGameLibrary1\obj\x86\Debug\WindowsGameLibrary1.dll
+C:\Users\Riz\Documents\Visual Studio 2010\Projects\BasicModel\WindowsGameLibrary1\obj\x86\Debug\WindowsGameLibrary1.pdb

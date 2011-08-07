@@ -1,0 +1,11 @@
+C:\Users\Riz\Documents\Visual Studio 2010\Projects\BasicModel\BasicModel\BasicModel\bin\x86\Debug\BasicModel.exe
+C:\Users\Riz\Documents\Visual Studio 2010\Projects\BasicModel\BasicModel\BasicModel\bin\x86\Debug\BasicModel.pdb
+C:\Users\Riz\Documents\Visual Studio 2010\Projects\BasicModel\BasicModel\BasicModel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Riz\Documents\Visual Studio 2010\Projects\BasicModel\BasicModel\BasicModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Riz\Documents\Visual Studio 2010\Projects\BasicModel\BasicModel\BasicModel\obj\x86\Debug\BasicModel.exe
+C:\Users\Riz\Documents\Visual Studio 2010\Projects\BasicModel\BasicModel\BasicModel\obj\x86\Debug\BasicModel.pdb
+C:\Users\Riz\Documents\Visual Studio 2010\Projects\BasicModel\BasicModel\BasicModel\bin\x86\Debug\Content\box.xnb
+C:\Users\Riz\Documents\Visual Studio 2010\Projects\BasicModel\BasicModel\BasicModel\bin\x86\Debug\Content\jacket.xnb
+C:\Users\Riz\Documents\Visual Studio 2010\Projects\BasicModel\BasicModel\BasicModel\bin\x86\Debug\Content\test.xnb
+C:\Users\Riz\Documents\Visual Studio 2010\Projects\BasicModel\BasicModel\BasicModel\bin\x86\Debug\Content\AlphaSprite.xnb
+C:\Users\Riz\Documents\Visual Studio 2010\Projects\BasicModel\BasicModel\BasicModel\bin\x86\Debug\Content\quad.xnb
